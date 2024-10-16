@@ -7,7 +7,7 @@ Frontend developer
 * 🌍  I'm based in Chester UK.
 * 🖥️  See my portfolio at [prayner.com](http://prayner.com)
 * ✉️  You can contact me at [paul@prayner.com](mailto:paul@prayner.com)
-* 🚀  I'm currently working on [Sticky coach] Habit coaching for health coaches
+* 🚀  I'm currently working on [Sticky coach](http://stickycoach.co) Habit coaching for health coaches
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love hiking, surfing, skiing and recently surf skating!
 
